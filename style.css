@@ -5,10 +5,20 @@ h1 {
     color: #FEDE00;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    border: 10px dotted yellow;
+    margin: 0 auto;
+    display: block;
 }
 
 li {
     font-size: large;
-    color: gold;
+    color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: violet;
+    width: 350px;
+    border: 8px solid white;
+    margin: 0 0 0 403px;
+    display: block;
+    text-align: center;
 }
